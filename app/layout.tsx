@@ -27,7 +27,7 @@ export default function RootLayout({
       <body
         className={`${schibstedGrotesk.variable} ${martianMono.variable} min-h-screen antialiased`}
       >
-        {children}
+         {children}
       </body>
     </html>
   );
