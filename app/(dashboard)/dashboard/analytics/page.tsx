@@ -1,7 +1,7 @@
 const Analytics = () => {
     return (
         <div>
-            <h1>Dashboard Analytics</h1>
+            <h1 className="text-gray-900 font-semibold">Dashboard Analytics</h1>
         </div>
     )
 }
