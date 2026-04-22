@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "shadcn@latest",
+        "mcp"
+      ]
+    },
+    "21st-dev": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@21st-dev/magic@latest",
+        "API_KEY=an_sk_3d2f401d94c49c1e02ceb04477a41441b42f2d74f222d9b8e8ad1c131a619ab9"
+      ]
+    }
+  }
+}
